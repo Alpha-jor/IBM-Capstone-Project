@@ -3,3 +3,5 @@ This is the final project of the data science professional course of IBM, on Cou
 since it required some skills that we've only skimmed throughout the course, but in conception this is fundamental for building the
 base knowledge required to be a data scientist. Putting into practice all the things i learned, or had to learn while doing it was excellent
 for my career development.
+
+I recommend to check the Presentation.pdf file.
